@@ -1,6 +1,7 @@
 # Diamond_pattern (Java) - 書き途中
 ## 訓練校で出た課題「菱形を描く」  
 <br>
+
 Java言語の実習が5月いっぱい行われ、  
 幾つかテキスト以外から課題が出されました。  
 
@@ -18,6 +19,7 @@ for文、while文あたりを授業で終えたところでの課題でした。
 
 ## 課題を解くにあたってのお話  
 <br>
+
 1, 以下のような菱形をコンソールに出力する。  
 ![コンソール出力画面イメージ](https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_00.png)
 
