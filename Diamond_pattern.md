@@ -21,7 +21,7 @@ for文、while文あたりを授業で終えたところでの課題でした。
 <br>
 
 1, 以下のような菱形をコンソールに出力する。  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_00.png" width="50%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_00.png" width="40%">
 
 2, 描ければ方法は問わない  
 <br>
@@ -31,7 +31,7 @@ for文、while文あたりを授業で終えたところでの課題でした。
 じーっと、菱形の図形を見ていたら、  
 ２Dのシミュレーションゲームでしばしば見かける、  
 移動可能範囲を示す下記のようなものが見えてきた。  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_01.png" width="35%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_01.png" width="40%">
 <br>
 
 漠然とではあるが「**描画可能そうな予感**」がしたので、  
@@ -40,18 +40,18 @@ for文、while文あたりを授業で終えたところでの課題でした。
 1, 地道に数えてみる...  
 自分がいる場所（中心）をゼロとして見てみると、  
 中心から五歩圏内だということがわかった。  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_02.png" width="35%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_02.png" width="40%">
   
 <br>
 2, 中心をX=0,Y=0としてメモリをふってみる。  <br>
 ひとまず、単純にXとYの値を足すと駄目だが、  <br>
 マイナスの箇所を絶対値処理したら大丈夫そうである。  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_03.png" width="35%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_03.png" width="40%">
 <br>
 
 3, ..が、念のためにエクセルで絶対値処理を検証してみた図。  
 XとYの値を足したものが想定と一致！  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_04.png" width="35%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_04.png" width="40%">
 
 これでプログラムを組んでみたのが、  
 アップしたリストになります。
