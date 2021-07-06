@@ -21,7 +21,7 @@ for文、while文あたりを授業で終えたところでの課題でした。
 <br>
 
 1, 以下のような菱形をコンソールに出力する。  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_00.png" width="40%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_00.png" width="35%">
 
 2, 描ければ方法は問わない  
 <br>
@@ -31,7 +31,7 @@ for文、while文あたりを授業で終えたところでの課題でした。
 じーっと、菱形の図形を見ていたら、  
 ２Dのシミュレーションゲームでしばしば見かける、  
 移動可能範囲を示す下記のようなものが見えてきた。  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_01.png" width="40%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_01.png" width="35%">
 <br>
 
 漠然とではあるが「**描画可能そうな予感**」がしたので、  
