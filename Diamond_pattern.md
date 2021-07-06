@@ -21,7 +21,7 @@ for文、while文あたりを授業で終えたところでの課題でした。
 <br>
 
 1, 以下のような菱形をコンソールに出力する。  
-<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_00.png" width="125%">
+<img src="https://github.com/kimihiro-abe/Diamond-pattern/blob/main/Daimond_pattern_00.png" width="50%">
 
 2, 描ければ方法は問わない  
 <br>
