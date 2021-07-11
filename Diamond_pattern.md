@@ -1,4 +1,4 @@
-# Diamond_pattern (Java) - 書き途中
+# Diamond_pattern (Java) 
 ## 訓練校で出た課題「菱形を描く」  
 <br>
 
